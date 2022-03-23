@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS, web, and game development
 - 🌱 I’m currently learning Java, Python, Swift, and JavaScript
 - 💞️ I’m looking to collaborate on basically anything (I want experience)
-- 📫 Reach me by DMing me on Twitter
+- 📫 Reach out by DMing me on Twitter
 
 <!---
 Phineas1500/Phineas1500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
