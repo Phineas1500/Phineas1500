@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phineas1500
-- I'm a student and a project builder
+- I'm a senior computer science student and a project builder. Been working in software since 2018
 - Experience in real-world frontend and backend development (fullstack)
 - I've implemented multiple projects in AI and ML
 
